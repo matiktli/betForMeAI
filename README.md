@@ -6,7 +6,7 @@ I would like to earn some easy $$$ on betting while not knowing much about teams
 We gonna focus on Premeir League 
 
 ### Data Sources
-* Archive matches data - [FootballData]("http://www.football-data.co.uk)
+* Archive matches data - [FootballData](http://www.football-data.co.uk)
 * Players statistics - [FifaIndex](https://www.fifaindex.com)
 * Match stats/lineups - [FootballLineups](https://www.football-lineups.com)
 * Sport news - [EyeFootball](https://www.eyefootball.com/archive)
