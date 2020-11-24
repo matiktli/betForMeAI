@@ -16,12 +16,15 @@ We gonna focus on Premeir League
 ## Data Modeling
 ### Input Data - general
 1. Team Stats - very general, but worth including.
-2. All Slayers Stats - FifaIndex stats of players, good estimator on their general skill.
+2. All Players Stats - FifaIndex stats of players, good estimator on their general skill.
 3. Lineups - main team + subs.
 4. Formation - vector (I need to find link to this guys github, he done it nicely).
 5. Last N Matches Stats - ? Not sure how much include there.
 6. Sport News - ?
 7. Social Media Posts - ?
+
+### Data Gathering - workflow
+![BetForMeAI-workflow](https://github.com/matiktli/betForMeAI/examples/images/BetForMeAI_flow_v1.png?raw=true)
 
 ### Data Transformation
 :construction:
