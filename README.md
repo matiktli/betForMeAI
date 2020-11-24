@@ -24,7 +24,7 @@ We gonna focus on Premeir League
 7. Social Media Posts - ?
 
 ### Data Gathering - workflow
-![BetForMeAI-workflow](https://github.com/matiktli/betForMeAI/examples/images/BetForMeAI_flow_v1.png?raw=true)
+[BetForMeAI-workflow](examples/images/BetForMeAI_flow_v1.png?raw=true)
 
 ### Data Transformation
 :construction:
